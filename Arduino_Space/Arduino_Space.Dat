@@ -1,0 +1,50 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Arduino_Space.PrjPcb|ReportField=ProjectFullPath~C:\Users\Loren\Desktop\abs-hardware\Arduino_Space\Arduino_Space.PrjPcb|ReportField=Title~Bill of Materials For Project [Arduino_Space.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~122|ReportField=ReportTime~21:32:41|ReportField=ReportDate~28/10/2015|ReportField=ReportDateTime~28/10/2015 21:32:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~28/10/2015|ReportField=CurrentTime~21:32:32|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Loren\Desktop\abs-hardware\Arduino_Space\UPCNSL-ABS-FLS-ARD.SchDoc|ReportField=DocumentName~UPCNSL-ABS-FLS-ARD.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~26/10/2015|ReportField=Organization~|ReportField=ProjectName~Arduino_Space.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Arduino_Space.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Loren\Desktop\abs-hardware\Arduino_Space\Arduino_Space.PrjPcb
+8x1F-H8.5|<b>PIN HEADER</b>|ADCH|ADCH|PINHD-1X8|1
+8x1F-H8.5|<b>PIN HEADER</b>|ADCL|ADCL|PINHD-1X8|1
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42|1608[0603]|Cap Semi|42
+22p|<B>CAPACITOR</B>, European symbol|C43, C52, C53|CAP0603|C-EU0603-RND|3
+100n|<B>CAPACITOR</B>, European symbol|C44, C45, C46, C47, C48, C49, C50, C51, C54|CAP0603|C-EU0603-RND|9
+8x1F-H8.5|<b>PIN HEADER</b>|COMMUNICATION|COMMUNICATION|PINHD-1X8|1
+D Schottky|Schottky Diode|D1, D3, D4|SMB|D Schottky|3
+HSMS-2824-TR1G|DIODE, RF, SCHOTTKY, DUAL, SOT-23|D2, D5, D6|SOT23-3|HSMS-2824-TR1G|3
+CD1206-S01575||D7|SMD DIODE|DIODE|1
+MF-MSMF050-2 500mA|<B>INDUCTOR</B>, European symbol|F2|FUSE|L-EUL1812|1
+ATMEGA2560-16AU|<b>MICROCONTROLLER</b><p>
+64/128/256 Kbytes FLASH<p>
+4 Kbytes EEPROM<p>
+8 Kbytes SRAM<p>
+86 General Purpose I/O pins<p>
+12-channels16-bit PWM<p>
+4 x Serial USARTs<p>
+16-channels 10-bit A/D<p>|IC3|TSQFP50P1600X1600X120-100N|ATMEGA2560AU|1
+74LVC1G125DCK||IC5, IC6, IC8, IC9|SOT65P210X110-5N|74LVC1G125DCK|4
+3x2M|<b>PIN HEADER</b>|ICSP|Header 3x2|PINHD-2X3|1
+10x1F-H8.5|<b>PIN HEADER</b>|JP1|HEADER 1X10|PINHD-1X10|1
+Inductor|Inductor|L1, L2, L3|0603|Inductor|3
+Inductor|Inductor|L4, L5|0402-A|Inductor|2
+MH2029-300Y|SMD EMI Suppression Ferrite Beads
+- excellent anti-EMI properties 
+- low DCR
+- impedances till 3000 ohms
+- rated current up to 6 A|L7|INDUCTOR|WE-CBF_0805|1
+Switch|Header, 2-Pin|P1, P2|HDR1X2|Header 2|2
+Header 2|Header, 2-Pin|P3, P4, P5, P6|HDR1X2|Header 2|4
+8x1F-H8.5|<b>PIN HEADER</b>|POWER|POWER|PINHD-1X8|1
+8x1F-H8.5|<b>PIN HEADER</b>|PWML|PWM|PINHD-1X8|1
+Res3|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17|J1-0603|Res3|17
+TS42|TS42
+Dongnan Electronics
+Tact switch
+VDC 12V - 50mA|RESET|TS42|TS42|1
+10K||RN1, RN6|CAF-80P319X159-8N|RES_ARRAY|2
+22R||RN7|CAF-80P319X159-8N|RES_ARRAY|1
+NM|Three terminal jumper made from two 0402, 0603, 0805, etc.|SJ1, SJ2, SJ3|J0402|J0402|3
+LTC3129IMSE|15V, 200mA Synchronous Buck-Boost DC/DC Converter with 1.3µA Quiescent Current|U1, U2, U3|MSOP-16|LTC3129|3
+LM2852YMXA||U4|TSOP65P650X110-14N (LM2852YMXA)|LM2852YMXA|1
+LTC3112EDHD#PBF|IC REG BUCK BOOST ADJ 2.5A 16DFN|U5|SON50P400X85_HS-17N|LTC3112EDHD#PBF|1
+MAX3421EEHJ|MAX3421 SPI to USB Interface Chip|U7A|TSQFP50P700X700X120-32N|MAX3421EEHJ|1
+USB A-TH||X3|PN87520-S|PN87520-S|1
+18x2F-H8.5|<b>PIN HEADER</b>|XIO|HEADER 2X18|PINHD-2X18|1
+16MHz CSTCE16M0V53-R0||Y1|RESONATOR|RESONATORMU|1
+12MHz KX-7||Y3|CRYSTAL-3.2-2.5|CRYSTAL-3.2-2.5|1
+CG0603MLC-05E|<b>VARISTOR</b>|Z3, Z4|0603|VARISTORCN0603|2

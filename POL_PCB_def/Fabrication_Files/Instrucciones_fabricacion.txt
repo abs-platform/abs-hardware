@@ -1,0 +1,8 @@
+File.GTL (Top layer copper)
+File.GTS (Top layer anti-solder mask)
+File.GTO (Top layer overlay)
+File.GBL (Bottom layer copper)
+File.GBS (Bottom layer anti-solder mask)
+File.GBO (Bottom layer overlay)
+File.GMx (Mechanical Board Cutout)
+File.TXT (NC Drill Files)
