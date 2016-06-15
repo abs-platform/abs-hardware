@@ -1,0 +1,10 @@
+Intrucciones Gerbers:
+
+PCB_Designs.GBL --> Gerber Cobre capa inferior
+PCB_Designs.GBO --> Gerber Pintura capa inferior
+PCB_Designs.GBS --> Gerber Capa de mascara antisoldante inferior
+PCB_Designs.GM1 --> Gerber Lineas de corte
+PCB_Designs.GTL --> Gerber Cobre capa superior
+PCB_Designs.GTO --> Gerber Pintura capa superior
+PCB_Designs.GTS --> Gerber Capa de mascara antisoldante superior
+PCB_Designs.TXT --> Fitxero de taladros
