@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\Sophia\Desktop\SophiaTemp\Abroad\Barcelona\NanoSat\abs-hardware\UPCNSL-ABS-COMMS-RFPATEST-v1.0\UPCNSL-ABS-COMMS-RFPATEST-v1.0.PcbDoc
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=62.99

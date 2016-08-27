@@ -1,9 +1,0 @@
-Intrucciones Gerbers:
-
-upcnsl-abs-comms-rfpatest-v1.gbl --> Gerber Cobre capa inferior
-upcnsl-abs-comms-rfpatest-v1.gbs --> Gerber Capa de mascara antisoldante inferior
-upcnsl-abs-comms-rfpatest-v1.gm1 --> Gerber Lineas de corte
-upcnsl-abs-comms-rfpatest-v1.gtl --> Gerber Cobre capa superior
-upcnsl-abs-comms-rfpatest-v1.gto --> Gerber Pintura capa superior
-upcnsl-abs-comms-rfpatest-v1.gts --> Gerber Capa de mascara antisoldante superior
-upcnsl-abs-comms-rfpatest-v1.txt --> Fitxero de taladros
