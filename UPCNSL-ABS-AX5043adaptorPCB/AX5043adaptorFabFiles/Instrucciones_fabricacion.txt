@@ -1,0 +1,4 @@
+Intrucciones Gerbers:
+
+AX5043adaptor.GTL --> Gerber Cobre capa superior
+AX5043adaptor.TXT --> Fitxero de taladros
